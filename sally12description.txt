@@ -1,0 +1,20 @@
+
+Robert,
+
+The sally is just a rather random function I invented to generate a 
+pretty vector field. One that I could control and had enough richness to it. 
+I have seen the cone before, mainly the bigger one. Have not seen the little 
+one on the core. I believe there might be some discontinuities (in some 
+derivative) so it may lead to some problems in certain algorithms. Hope this 
+helps.
+
+Roger
+
+罗伯特,
+sally是一个随机函数，我发明它是为了生成a
+漂亮的向量场。一个我可以控制的，并且有足够的丰富性的。
+我以前见过圆锥体，主要是较大的那个。难道没有见过小的吗
+一个在核心。我相信可能有一些间断
+因此，它可能会导致某些算法中的一些问题。希望这
+有帮助。
+罗杰
